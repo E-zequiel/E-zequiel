@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<defs>
+<clipPath id="r"><rect width="512" height="512" rx="96"></rect></clipPath>
+<radialGradient id="g" cx="50%" cy="32%" r="80%"><stop offset="0%" stop-color="#20222f"></stop><stop offset="100%" stop-color="#16161e"></stop></radialGradient>
+</defs>
+<g clip-path="url(#r)">
+<rect width="512" height="512" fill="url(#g)"></rect>
+<rect x="14" y="14" width="484" height="484" rx="84" fill="none" stroke="#7dcfff" stroke-width="2" opacity="0.16"></rect>
+<g transform="translate(98 70) scale(0.61)">
+<g fill="none" stroke="#d9e0f2" stroke-width="34">
+<rect x="64" y="188" width="168" height="136" rx="32"></rect>
+<rect x="280" y="188" width="168" height="136" rx="32"></rect>
+<path d="M232 244 q24 -20 48 0" stroke-linecap="round"></path>
+</g>
+</g>
+<text x="256" y="438" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="38" letter-spacing="12" fill="#a9b1d6">ANALECTA</text>
+</g>
+</svg>
