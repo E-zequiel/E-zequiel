@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="mailto:dev@ezequiel.analecta.app"><img src="https://img.shields.io/badge/email-dev%40ezequiel.analecta.app-1a1b26?style=for-the-badge&logo=protonmail&logoColor=ff757f&labelColor=16161e" alt="Email"></a>
-<a href="https://www.linkedin.com/in/ezequiel-lazzari/"><img src="https://img.shields.io/badge/linkedin-ezequiel--lazzari-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7dcfff&labelColor=16161e" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ezequiel-lazzari/"><img src="https://img.shields.io/badge/linkedin-ezequiel--lazzari-1a1b26?style=for-the-badge&labelColor=16161e" alt="LinkedIn"></a>
 <a href="https://github.com/E-zequiel?tab=repositories"><img src="https://img.shields.io/badge/github-E--zequiel-1a1b26?style=for-the-badge&logo=github&logoColor=d9e0f2&labelColor=16161e" alt="GitHub"></a>
 <a href="https://www.freecodecamp.org/e-zequiel"><img src="https://img.shields.io/badge/freecodecamp-e--zequiel-1a1b26?style=for-the-badge&logo=freecodecamp&logoColor=e0af68&labelColor=16161e" alt="freeCodeCamp"></a>
 
@@ -42,7 +42,7 @@ I build tools that remove friction: automation scripts that replace manual proce
 **Web development**
 <br>
 ![HTML](https://img.shields.io/badge/HTML-1a1b26?style=flat-square&logo=html5&logoColor=ff757f&labelColor=16161e)
-![CSS](https://img.shields.io/badge/CSS-1a1b26?style=flat-square&logo=css3&logoColor=7dcfff&labelColor=16161e)
+![CSS](https://img.shields.io/badge/CSS-1a1b26?style=flat-square&logo=css&logoColor=7dcfff&labelColor=16161e)
 ![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-1a1b26?style=flat-square&logo=freecodecamp&logoColor=e0af68&labelColor=16161e)
 
 <br>
