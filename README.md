@@ -24,26 +24,26 @@ I build tools that remove friction: automation scripts that replace manual proce
 
 **Languages, databases & backend**
 <br>
-![Python](https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=e0af68&labelColor=16161e)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1b26?style=flat-square&logo=fastapi&logoColor=9ece6a&labelColor=16161e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=flat-square&logo=postgresql&logoColor=7dcfff&labelColor=16161e)
-![SQLite](https://img.shields.io/badge/SQLite-1a1b26?style=flat-square&logo=sqlite&logoColor=7dcfff&labelColor=16161e)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1a1b26?style=flat-square&logo=openapiinitiative&logoColor=e0af68&labelColor=16161e)
-![Bash](https://img.shields.io/badge/Bash-1a1b26?style=flat-square&logo=gnubash&logoColor=9ece6a&labelColor=16161e)
-![Linux](https://img.shields.io/badge/Linux-1a1b26?style=flat-square&logo=linux&logoColor=d9e0f2&labelColor=16161e)
+![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=e0af68&labelColor=16161e)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1b26?style=for-the-badge&logo=fastapi&logoColor=9ece6a&labelColor=16161e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7dcfff&labelColor=16161e)
+![SQLite](https://img.shields.io/badge/SQLite-1a1b26?style=for-the-badge&logo=sqlite&logoColor=7dcfff&labelColor=16161e)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1a1b26?style=for-the-badge&logo=openapiinitiative&logoColor=e0af68&labelColor=16161e)
+![Bash](https://img.shields.io/badge/Bash-1a1b26?style=for-the-badge&logo=gnubash&logoColor=9ece6a&labelColor=16161e)
+![Linux](https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=d9e0f2&labelColor=16161e)
 
 **Tools & CI/CD**
 <br>
-![Git](https://img.shields.io/badge/Git-1a1b26?style=flat-square&logo=git&logoColor=ff9e64&labelColor=16161e)
-![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=flat-square&logo=github&logoColor=d9e0f2&labelColor=16161e)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1b26?style=flat-square&logo=githubactions&logoColor=7dcfff&labelColor=16161e)
-![pytest](https://img.shields.io/badge/pytest-1a1b26?style=flat-square&logo=pytest&logoColor=bb9af7&labelColor=16161e)
+![Git](https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=ff9e64&labelColor=16161e)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=d9e0f2&labelColor=16161e)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1b26?style=for-the-badge&logo=githubactions&logoColor=7dcfff&labelColor=16161e)
+![pytest](https://img.shields.io/badge/pytest-1a1b26?style=for-the-badge&logo=pytest&logoColor=bb9af7&labelColor=16161e)
 
 **Web development**
 <br>
-![HTML](https://img.shields.io/badge/HTML-1a1b26?style=flat-square&logo=html5&logoColor=ff757f&labelColor=16161e)
-![CSS](https://img.shields.io/badge/CSS-1a1b26?style=flat-square&logo=css&logoColor=7dcfff&labelColor=16161e)
-![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-1a1b26?style=flat-square&logo=freecodecamp&logoColor=e0af68&labelColor=16161e)
+![HTML](https://img.shields.io/badge/HTML-1a1b26?style=for-the-badge&logo=html5&logoColor=ff757f&labelColor=16161e)
+![CSS](https://img.shields.io/badge/CSS-1a1b26?style=for-the-badge&logo=css&logoColor=7dcfff&labelColor=16161e)
+![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-1a1b26?style=for-the-badge&logo=freecodecamp&logoColor=e0af68&labelColor=16161e)
 
 <br>
 
