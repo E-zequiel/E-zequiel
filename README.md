@@ -15,6 +15,8 @@
 
 ## About
 
+> Backend Developer | Python • SQL • FastAPI • PostgreSQL
+
 10 years in financial risk and credit before moving fully into software.
 I build tools that remove friction: automation scripts that replace manual processes, and [**Analecta**](https://github.com/E-zequiel/analecta), a local read-it-later app that distills the web into a Markdown PKM vault.
 
