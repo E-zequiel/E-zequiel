@@ -17,8 +17,21 @@
 
 > Backend Developer | Python • FastAPI • SQL • PostgreSQL • Bash • Linux
 
-10 years in financial risk and credit before moving fully into software.
-I build tools that remove friction: automation scripts that replace manual processes, and [**Analecta**](https://github.com/E-zequiel/analecta), a local read-it-later app that distills the web into a Markdown PKM vault.
+Python-focused Backend Developer specializing in high-reliability automation, custom scripting, and data processing utilities — with a professional background in financial risk management that shapes how I approach precision, edge cases, and data integrity.
+
+I bring analytical rigor and strong programming logic to backend development, using Python, Bash, and Linux tooling to turn manual workflows into maintainable, well-documented systems.
+
+How I can help you:
+
+- **Python & Bash Automation Scripts:** Streamlining daily operational tasks, data extraction, and file management across Linux environments.
+
+- **Data Processing & Utilities:** Building robust scripts and lightweight applications with SQLite and PostgreSQL for reliable data handling.
+
+- **REST APIs & Web Utilities:** Developing high-performance microservices and API integrations with FastAPI, along with user-first interfaces.
+
+Whether you need a standalone CLI utility, a web scraper, an API endpoint, or end-to-end task automation, I write clean, well-documented code built for stability and real-world reliability.
+
+Let's talk about how I can help.
 
 <br>
 
