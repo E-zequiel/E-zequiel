@@ -15,23 +15,11 @@
 
 ## About
 
-> Backend Developer | Python • FastAPI • SQL • PostgreSQL • Bash • Linux
+> Python Developer | FastAPI • SQL • PostgreSQL
 
-Python-focused Backend Developer specializing in high-reliability automation, custom scripting, and data processing utilities — with a professional background in financial risk management that shapes how I approach precision, edge cases, and data integrity.
+**Python Developer** focused in FastAPI and SQL (PostgreSQL & SQLite), leveraging a background in financial risk management and hands-on experience with blockchain technologies.
 
-I bring analytical rigor and strong programming logic to backend development, using Python, Bash, and Linux tooling to turn manual workflows into maintainable, well-documented systems.
-
-How I can help you:
-
-- **Python & Bash Automation Scripts:** Streamlining daily operational tasks, data extraction, and file management across Linux environments.
-
-- **Data Processing & Utilities:** Building robust scripts and lightweight applications with SQLite and PostgreSQL for reliable data handling.
-
-- **REST APIs & Web Utilities:** Developing high-performance microservices and API integrations with FastAPI, along with user-first interfaces.
-
-Whether you need a standalone CLI utility, a web scraper, an API endpoint, or end-to-end task automation, I write clean, well-documented code built for stability and real-world reliability.
-
-Let's talk about how I can help.
+I bring analytical rigor and solid programming logic to software development, striving to build maintainable, scalable, and well-documented systems.
 
 <br>
 
