@@ -17,7 +17,7 @@
 
 > Python Developer | FastAPI • SQL • PostgreSQL
 
-**Python Developer** focused in FastAPI and SQL (PostgreSQL & SQLite), leveraging a background in financial risk management and hands-on experience with blockchain technologies.
+**Python Developer** focused on FastAPI and SQL (PostgreSQL & SQLite) with hands-on experience in blockchain technologies, backed by a strong background in sales and financial risk management.
 
 I bring analytical rigor and solid programming logic to software development, striving to build maintainable, scalable, and well-documented systems.
 
